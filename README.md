@@ -1,1 +1,0 @@
-# Guess-the-number-Game-HTML-CSS-JS
